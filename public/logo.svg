@@ -1,8 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 432.02 437.04"
-    viewBox="0 0 432.02 437.04">
-    <path
-        d="M431.14 217.49c-2.68 36.16-11.22 62.74-23.85 88.06-12.65 24.92-29.38 48.57-48.83 69.53-39.07 42.61-88.51 71.24-142.45 59.19-53.95-11.98-103.38-33.65-142.44-68.79-19.46-17.91-36.19-40.23-48.84-66.27C12.1 273.54 3.55 244.14.88 220.79c-2.68-25.95.82-43.61 9.96-62.82 9.12-18.78 23.9-39.11 43.38-60.12C93.01 55.57 151.14 12.65 216.01 4c64.87-8.59 123-5.47 161.8 30.33 19.47 17.86 34.25 44.28 43.37 77.5 9.14 32.76 12.64 72.31 9.96 105.66z"
-        style="fill:#4d2e8c" />
-    <path d="m260.12 354.79-59.56-176.5v176.5h-54.74V62.67H201l56.5 167.74V62.67h54.74v292.12h-52.12z"
-        style="fill:#fff" />
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 211 65" style="enable-background:new 0 0 211 65;" xml:space="preserve" class="logo">
+
+<path class="slash slash-left " d="M0.6,33.2L32,64.6" stroke="currentColor" stroke-width="0.8" stroke-miterlimit="8"/>
+<path class="hidden slash slash-right dark:text-blue-300 sm:block" d="M178.6,1.2l31.2,31.4" stroke="currentColor" stroke-width="0.8" stroke-miterlimit="8"/>
+<g class="hidden realidyne full sm:block">
+	<polygon class="letter-e" points="55.7,53.8 42.3,53.8 42.3,13.1 55.5,13.1 55.5,16.3 45.9,16.3 45.9,31.4 54.6,31.4 54.6,34.7 45.9,34.7 45.9,50.5 
+		55.7,50.5 55.7,53.8" fill="currentColor"/>
+	<path class="letter-a" fill="currentColor" d="M70.4,13h-3.5l-7.1,40.7v0.1h3.4l1.4-9h8.1l1.4,9h3.6L70.4,13z M65.1,41.5l3.6-22l3.5,22H65.1z"/>
+	<polygon  class="letter-l" fill="currentColor" points="95.5,53.8 82.5,53.8 82.5,13.1 86.1,13.1 86.1,50.5 95.5,50.5 	"/>
+	<polygon  class="letter-i" fill="currentColor" points="104.2,53.8 100.6,53.8 100.6,13.1 104.2,13.1 104.2,53.8 	"/>
+	<path  class="letter-d" fill="currentColor" d="M125.7,15.2c-1.5-1.4-3.2-2.1-5.4-2.1H111v40.7h9.3c2.2,0,4-0.7,5.4-2.1c1.4-1.4,2.1-3.1,2.1-5.3V20.5
+		C127.8,18.3,127.1,16.6,125.7,15.2z M124.2,46.1c0,1.3-0.5,2.5-1.4,3.3c-0.8,0.8-2,1.2-3.4,1.2h-4.8V16.4h5c1.4,0,2.5,0.4,3.3,1.2
+		c0.9,0.8,1.3,1.8,1.3,3.2V46.1z"/>
+	<path class="letter-i" fill="currentColor" d="M150.4,13.4l-5,16.4c-0.6,1.7-1.4,4.4-2.5,8.2v15.8h-3.6V38c-0.2-1.3-0.6-2.7-1.1-4.2c-0.8-2.5-1.3-3.8-1.4-4.1l-5-16.4
+		v-0.2h3.7l5.6,20.3l5.5-20.3h3.6C150.4,13.3,150.4,13.4,150.4,13.4L150.4,13.4z"/>
+	<polygon class="letter-n" fill="currentColor"  points="171.5,53.8 169,53.8 158.1,24 158.1,53.8 154.7,53.8 154.7,13.1 157.4,13.1 168,42.5 168,13.1 171.4,13.1 
+		171.4,53.8 	"/>
+	<polygon class="letter-e" fill="currentColor" points="181.6,34.7 190.3,34.7 190.3,31.4 181.6,31.4 181.6,16.3 190.5,16.3 187.3,13.1 178,13.1 178,53.8 191.4,53.8 
+		191.4,50.6 181.6,50.6 	"/>
+</g>
+<path class="realidyne mobile letter-r" fill="currentColor" d="M23.3,53.2V16.3h9.3v15h-6.4L25.7,32l7.5,21.8H37c-2.3-6.5-4.7-13-7-19.4h2.2c2.6,0,3.9-1,3.9-3V16c0-0.9-0.2-1.5-0.8-2.1
+	c-0.6-0.6-1.2-0.8-2.1-0.8H19.7v36.5L23.3,53.2L23.3,53.2z"/>
+<polygon class="triangle mobile invisible dark:red dark:visible" fill="currentColor" points="4,36 4,55.5 23.5,55.5 "/>
 </svg>

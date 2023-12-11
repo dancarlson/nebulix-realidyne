@@ -2,8 +2,8 @@
 
 @layer base {
   :root {
-    --color-primary: 75 38 143; /* 135 94 212 */
-    --color-secondary: 107 154 199;
+    --color-primary: 29 95 150; /* 135 94 212 #1D5F96 */
+    --color-secondary: 207 67 35;
     --color-accent: 119 112 150;
     --color-warning: 202 121 45;
     --color-danger: 180 25 14;
@@ -31,8 +31,8 @@
 
   @media (prefers-color-scheme: dark) {
     :root {
-      --color-primary: 135 94 212;
-      --color-secondary: 107 154 199;
+      --color-primary: 29 95 150; /* #1D5F96 */
+      --color-secondary: 207 67 35;
       --color-accent: 119 112 150;
       --color-warning: 202 121 45;
       --color-danger: 180 25 14;
